@@ -8,3 +8,6 @@ enable computers to learn and act through experiences without being explicitly p
 Q63. What is cherry-picking, P-hacking?
 Sol: Cherry-picking can be defined as the practice in statistics where only that information is selected which supports
 a certain claim and ignores any other claim that refutes the desired conclusion.
+
+Q3. What is Mean?
+Sol: Mean is the average of a collection of values. We can calculate the mean by dividing the sum of all observations by the number of observations.
