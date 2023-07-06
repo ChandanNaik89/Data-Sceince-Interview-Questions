@@ -51,4 +51,7 @@ Sol: Bias is an error in a machine learning algorithm, it occurs when the algori
 Q11. What is Variance?
 Sol: Variance is an error in a machine-learning algorithm, variance occurs when the model is extremely sensitive to small fluctuations.
 
+Q12. What do you mean by Bias-Variance Tradeoff?
+Sol: The bias–variance trade-off is the property of a model that the variance of the parameter estimated across samples 
+can be reduced by increasing the bias in the estimated parameters.
 
