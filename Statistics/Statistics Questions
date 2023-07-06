@@ -37,3 +37,14 @@ Sol: Different types of sampling are as follows:
 Q9.  What is the meaning of selection bias?
 Sol: Selection bias is a phenomenon that involves the selection of individual or grouped data in a way that is not considered to be random.
 
+Q12. What are the types of selection bias in statistics?
+ Sol: There are many types of selection bias as shown below:
+1.	Observer selection
+2.	Attrition
+3.	Protopathic bias
+4.	Time intervals
+5.	Sampling bias
+
+Q10. What is Bias?
+Sol: Bias is an error in a machine learning algorithm, it occurs when the algorithm has limited flexibility to deduce the correct observation from the dataset.
+
