@@ -48,3 +48,7 @@ Q12. What are the types of selection bias in statistics?
 Q10. What is Bias?
 Sol: Bias is an error in a machine learning algorithm, it occurs when the algorithm has limited flexibility to deduce the correct observation from the dataset.
 
+Q11. What is Variance?
+Sol: Variance is an error in a machine-learning algorithm, variance occurs when the model is extremely sensitive to small fluctuations.
+
+
